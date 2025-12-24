@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2023——2028 (expected)
-* B.S. in GitHub, Yuannan University, China, 2019——2023
+* Ph.D in EE, Harbin Institute of Technology, China, 2023——2028 (expected)
+* B.S. in Cyberspace Security, Yuannan University, China, 2019——2023
 
 <!-- 注释内容 
 Work experience
