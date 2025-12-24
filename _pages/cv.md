@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Technology, Harbin Institute of Technology, China, 2023——2028 (expected)
-* B.S. in Cyberspace Security, Yuannan University, China, 2019——2023
+* B.S. in Cyberspace Security, Yuanan University, China, 2019——2023
 
 <!-- 注释内容 
 Work experience
