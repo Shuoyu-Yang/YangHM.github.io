@@ -14,7 +14,8 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2023——2028 (expected)
 * B.S. in GitHub, Yuannan University, China, 2019——2023
 
----ork experience
+<!-- 注释内容 
+Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -59,4 +60,4 @@ Teaching
   {% endfor %}</ul>rvice and leadership
 ======
 * Currently signed in to 43 different slack teams
----
+-->
